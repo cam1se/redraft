@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/redraft-local"><img src="https://img.shields.io/npm/v/redraft-local?style=flat&colorA=222222&colorB=CB3837" alt="npm version"></a>
   <a href="https://www.npmjs.com/package/redraft-local"><img src="https://img.shields.io/npm/dm/redraft-local?style=flat&colorA=222222&colorB=CB3837" alt="npm downloads"></a>
-  <a href="https://github.com/tcamise-gpsw/redraft/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/tcamise-gpsw/redraft/ci.yml?style=flat&colorA=222222&colorB=3FB950" alt="CI"></a>
+  <a href="https://github.com/cam1se/redraft/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/cam1se/redraft/ci.yml?style=flat&colorA=222222&colorB=3FB950" alt="CI"></a>
   <a href="https://redraft-docs.dev"><img src="https://img.shields.io/badge/site-redraft--docs.dev-58A6FF?style=flat&colorA=222222" alt="Site"></a>
   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&colorA=222222&logo=typescript&logoColor=white" alt="TypeScript"></a>
 </p>

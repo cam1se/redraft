@@ -140,11 +140,11 @@ Check `tab.observe()` before filling auth fields.
 const token = (await Bun.$`gh auth token`.text()).trim();
 // Auth form uses htmlFor-linked labels, not aria-label attributes
 await tab.fill('#github-pat', token);
-await tab.fill('#repository', 'tcamise-gpsw/redraft-test-repo');
+await tab.fill('#repository', 'cam1se/redraft-test-repo');
 await tab.click('button[type="submit"]');
 ```
 
-The sandbox repo (`tcamise-gpsw/redraft-test-repo`) is the `test-fixtures` submodule
+The sandbox repo (`cam1se/redraft-test-repo`) is the `test-fixtures` submodule
 remote. Documents on `main`: `api-design-v2.md` (has existing seeded comments),
 `getting-started.md`, `docs/architecture.md`, `docs/auth-overhaul.md`,
 `docs/deployment.md`, `docs/platform-architecture.md`, `rfcs/rfc-001-pagination.md`,

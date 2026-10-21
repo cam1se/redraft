@@ -8,7 +8,7 @@
 
 Both modes share the same `src/` codebase. `server/` is local mode only.
 
-Test fixtures are in `test-fixtures/` — a git submodule pointing to `tcamise-gpsw/redraft-test-repo`. Commits there must be made and pushed from inside that directory.
+Test fixtures are in `test-fixtures/` — a git submodule pointing to `cam1se/redraft-test-repo`. Commits there must be made and pushed from inside that directory.
 
 ---
 
